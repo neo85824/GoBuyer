@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "513211187347",
+    "firebase_url": "https://gobuyer-86845.firebaseio.com",
+    "project_id": "gobuyer-86845",
+    "storage_bucket": "gobuyer-86845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513211187347:android:9ff88832169b2af5",
+        "android_client_info": {
+          "package_name": "com.ncu.neo.product"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513211187347-km2otf6fmrdfus1hrir7vbesvtd200ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ncu.neo.product",
+            "certificate_hash": "16B4C713D85DA3C8FA7E23E6154C7CFFE055676C"
+          }
+        },
+        {
+          "client_id": "513211187347-req4gsgtjvj2tudjrs34fse02348ia5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu3tvZwQseb00f3x1vqZoS20IJpyr7tZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513211187347-req4gsgtjvj2tudjrs34fse02348ia5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

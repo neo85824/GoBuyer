@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">GoBuyer</string>
+    <string-array name="country">
+        <item>選擇國家</item>
+        <item>美國</item>
+        <item>日本</item>
+        <item>英國</item>
+        <item>法國</item>
+        <item>德國</item>
+    </string-array>
+
+    <string-array name="weight">
+        <item>kg</item>
+        <item>g</item>
+        <item>mg</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>天</item>
+        <item>週</item>
+        <item>月</item>
+    </string-array>
+
+    <string-array name="number">
+        <item>商品數量</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string-array name="catalog">
+        <item>選擇分類</item>
+        <item>服飾</item>
+        <item>電器</item>
+        <item>3C產品</item>
+    </string-array>
+
+    <string-array name="receipt">
+        <item>購買單據</item>
+        <item>需要</item>
+        <item>不需要</item>
+    </string-array>
+
+    <string-array name="getProduct">
+        <item>取貨方式</item>
+        <item>宅配</item>
+        <item>超商貨到付款</item>
+    </string-array>
+
+
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_buyer_product">BuyerProductActivity</string>
+</resources>
